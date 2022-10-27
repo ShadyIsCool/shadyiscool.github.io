@@ -1,1 +1,3 @@
-# shadyiscool.github.io
+# The official Gravita website!
+
+Gravita
